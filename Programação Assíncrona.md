@@ -1,0 +1,4 @@
+***Conceito***
+	Programação assíncrona permite a um programa realizar outras ações enquanto determinado elemento do programa está fazendo outra, paralelamente. Sem esse recurso, a aplicação trava até que determinado processo termine, o que pode demorar dependendo da máquina onde o [[Processamento de Dados|processamento]] está sendo executado, da conexão com a internet, etc.
+***Uso***
+	Geralmente utilizada para programas multi-thread, que exigem processamento paralelo de funções ou ações do código, como em APIs, que precisam trabalhar com [[requests]] e [[responses]] do frontend para o banco de dados. 
