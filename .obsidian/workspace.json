@@ -45,7 +45,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,11 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fda348d8d61b50f4",
+  "active": "c737eca342097fd0",
   "lastOpenFiles": [
+    "Variáveis.md",
     "Vetor.md",
     "Estruturas de Repetição.md",
-    "Variáveis.md",
     "Dados.md",
     "Estruturas Condicionais.md",
     "Expressões.md",
