@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "296bae5543a5d002",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matriz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Matriz"
+            }
+          },
+          {
             "id": "443fe80215da595c",
             "type": "leaf",
             "state": {
@@ -46,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,10 +197,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c737eca342097fd0",
+  "active": "296bae5543a5d002",
   "lastOpenFiles": [
-    "Variáveis.md",
     "Vetor.md",
+    "Matriz.md",
+    "Variáveis.md",
     "Estruturas de Repetição.md",
     "Dados.md",
     "Estruturas Condicionais.md",
