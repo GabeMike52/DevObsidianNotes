@@ -11,9 +11,9 @@
 	retorne <valor>
 	fimfuncao```
 	2. Com Parâmetros
-	```funcao <nome-da-função> (<parâmetros>:<tipo-do-parâmetro>)
+	```funcao <nome-da-função> (<parâmetros>:<tipo-do-parâmetro>) : <tipo-do-retorno>
 	var
-	//Seção de variáveis locais
+	//Seção de declaração de variáveis locais
 	inicio
 	//Seção de criação do algoritmo que irá ser executado nessa função
 	retorne <valor>
