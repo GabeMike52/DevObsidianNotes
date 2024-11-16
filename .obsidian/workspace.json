@@ -23,16 +23,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modularização.md",
+                "file": "Procedimentos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modularização"
+              "title": "Procedimentos"
+            }
+          },
+          {
+            "id": "0dfd9122386e43a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Funções.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Funções"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,12 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d096c0f2237d0d96",
+  "active": "0dfd9122386e43a7",
   "lastOpenFiles": [
-    "Inversão de Dependência.md",
     "Procedimentos.md",
+    "Funções.md",
     "Variáveis.md",
     "Modularização.md",
+    "Inversão de Dependência.md",
     "Micro-serviços.md",
     "Monólito.md",
     "Entidade.md",
@@ -195,7 +210,6 @@
     "Estruturas de Repetição.md",
     "Estruturas Condicionais.md",
     "Estrutura de Seleção Múltipla.md",
-    "Entrada de Dados.md",
-    "Dados.md"
+    "Entrada de Dados.md"
   ]
 }
