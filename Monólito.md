@@ -1,0 +1,2 @@
+***Conceito***
+	Concentra o código de uma aplicação em apenas um arquivo, se uma parte falhar, a aplicação como um todo falha, se uma parte foi atualizada, toda a aplicação tem que subir para deploy. É um padrão de arquitetura de software assim como os [[Micro-serviços]].

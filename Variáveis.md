@@ -2,6 +2,7 @@
 	Uma variável é um espaço na memória do computador que recebe [[dados]] e os armazena. Também é um conceito utilizado na álgebra, com equações, fórmulas, entre outros.
 ***Uso***
 	As variáveis são amplamente utilizadas em programação, sendo um dos conceitos mais básicos da computação. Podem ter [[Tipagem Estática]] ou [[Tipagem Dinâmica]].
+	Além disso, variáveis podem ser globais ou ter um escopo específico, como as variáveis declaradas em um [[Procedimentos|procedimento]] ou [[funções|função]].
 ***Nomenclatura***
 	1. Deve começar com uma letra
 	2. Não pode ser uma keyword (palavra reservada da linguagem)

@@ -1,0 +1,2 @@
+***Conceito***
+	Micro-serviços é um tipo de arquitetura que distribui uma aplicação em partes diferentes que se comunicam entre si, tornando a aplicação escalável e de fácil manutenção, visto que a falha de um serviço não necessariamente para a aplicação inteira. A atualização de um dos serviços requer o deploy de apenas esse serviço. É uma abordagem de design de software assim como os [[Monólito|monolitos]].

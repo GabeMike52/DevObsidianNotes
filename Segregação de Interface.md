@@ -1,0 +1,2 @@
+***Conceito***
+	A implementação concreta de uma interface deveria implementar todos os métodos. O princípio informa que uma interface cuja filha não precisa implementar todos os seus métodos, pode ser quebrada em interfaces menores. Esse princípio aumenta a coesão e diminui o acoplamento.

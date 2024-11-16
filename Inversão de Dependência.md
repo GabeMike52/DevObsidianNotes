@@ -1,0 +1,2 @@
+***Conceito***
+	Uma classe deveria depender de uma abstração e não de uma implementação concreta. Isso significa que classes que possuem regras de negócio não devem depender de classes que contém implementações detalhadas. Ambas devem depender de abstrações (interfaces ou classes abstratas).
